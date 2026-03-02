@@ -1,0 +1,278 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DataBase Project\\Hospital_Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F932BCC-5D2D-4F59-BB4E-4098CD2328C1}|Hospital_Management\\Hospital_Management.csproj|d:\\database project\\hospital_management\\hospital_management\\medicalrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F932BCC-5D2D-4F59-BB4E-4098CD2328C1}|Hospital_Management\\Hospital_Management.csproj|solutionrelative:hospital_management\\medicalrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F932BCC-5D2D-4F59-BB4E-4098CD2328C1}|Hospital_Management\\Hospital_Management.csproj|D:\\DataBase Project\\Hospital_Management\\hospital_management\\medicalrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5F932BCC-5D2D-4F59-BB4E-4098CD2328C1}|Hospital_Management\\Hospital_Management.csproj|solutionrelative:hospital_management\\medicalrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F932BCC-5D2D-4F59-BB4E-4098CD2328C1}|Hospital_Management\\Hospital_Management.csproj|D:\\DataBase Project\\Hospital_Management\\hospital_management\\nurse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F932BCC-5D2D-4F59-BB4E-4098CD2328C1}|Hospital_Management\\Hospital_Management.csproj|solutionrelative:hospital_management\\nurse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F932BCC-5D2D-4F59-BB4E-4098CD2328C1}|Hospital_Management\\Hospital_Management.csproj|D:\\DataBase Project\\Hospital_Management\\hospital_management\\nurse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5F932BCC-5D2D-4F59-BB4E-4098CD2328C1}|Hospital_Management\\Hospital_Management.csproj|solutionrelative:hospital_management\\nurse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F932BCC-5D2D-4F59-BB4E-4098CD2328C1}|Hospital_Management\\Hospital_Management.csproj|D:\\DataBase Project\\Hospital_Management\\hospital_management\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F932BCC-5D2D-4F59-BB4E-4098CD2328C1}|Hospital_Management\\Hospital_Management.csproj|solutionrelative:hospital_management\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F932BCC-5D2D-4F59-BB4E-4098CD2328C1}|Hospital_Management\\Hospital_Management.csproj|D:\\DataBase Project\\Hospital_Management\\hospital_management\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5F932BCC-5D2D-4F59-BB4E-4098CD2328C1}|Hospital_Management\\Hospital_Management.csproj|solutionrelative:hospital_management\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F932BCC-5D2D-4F59-BB4E-4098CD2328C1}|Hospital_Management\\Hospital_Management.csproj|D:\\DataBase Project\\Hospital_Management\\hospital_management\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F932BCC-5D2D-4F59-BB4E-4098CD2328C1}|Hospital_Management\\Hospital_Management.csproj|solutionrelative:hospital_management\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F932BCC-5D2D-4F59-BB4E-4098CD2328C1}|Hospital_Management\\Hospital_Management.csproj|D:\\DataBase Project\\Hospital_Management\\hospital_management\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5F932BCC-5D2D-4F59-BB4E-4098CD2328C1}|Hospital_Management\\Hospital_Management.csproj|solutionrelative:hospital_management\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F932BCC-5D2D-4F59-BB4E-4098CD2328C1}|Hospital_Management\\Hospital_Management.csproj|D:\\DataBase Project\\Hospital_Management\\hospital_management\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F932BCC-5D2D-4F59-BB4E-4098CD2328C1}|Hospital_Management\\Hospital_Management.csproj|solutionrelative:hospital_management\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F932BCC-5D2D-4F59-BB4E-4098CD2328C1}|Hospital_Management\\Hospital_Management.csproj|D:\\DataBase Project\\Hospital_Management\\hospital_management\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5F932BCC-5D2D-4F59-BB4E-4098CD2328C1}|Hospital_Management\\Hospital_Management.csproj|solutionrelative:hospital_management\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F932BCC-5D2D-4F59-BB4E-4098CD2328C1}|Hospital_Management\\Hospital_Management.csproj|D:\\DataBase Project\\Hospital_Management\\hospital_management\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5F932BCC-5D2D-4F59-BB4E-4098CD2328C1}|Hospital_Management\\Hospital_Management.csproj|solutionrelative:hospital_management\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F932BCC-5D2D-4F59-BB4E-4098CD2328C1}|Hospital_Management\\Hospital_Management.csproj|D:\\DataBase Project\\Hospital_Management\\hospital_management\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F932BCC-5D2D-4F59-BB4E-4098CD2328C1}|Hospital_Management\\Hospital_Management.csproj|solutionrelative:hospital_management\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F932BCC-5D2D-4F59-BB4E-4098CD2328C1}|Hospital_Management\\Hospital_Management.csproj|D:\\DataBase Project\\Hospital_Management\\hospital_management\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F932BCC-5D2D-4F59-BB4E-4098CD2328C1}|Hospital_Management\\Hospital_Management.csproj|solutionrelative:hospital_management\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F932BCC-5D2D-4F59-BB4E-4098CD2328C1}|Hospital_Management\\Hospital_Management.csproj|D:\\DataBase Project\\Hospital_Management\\hospital_management\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5F932BCC-5D2D-4F59-BB4E-4098CD2328C1}|Hospital_Management\\Hospital_Management.csproj|solutionrelative:hospital_management\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F932BCC-5D2D-4F59-BB4E-4098CD2328C1}|Hospital_Management\\Hospital_Management.csproj|D:\\DataBase Project\\Hospital_Management\\hospital_management\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F932BCC-5D2D-4F59-BB4E-4098CD2328C1}|Hospital_Management\\Hospital_Management.csproj|solutionrelative:hospital_management\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F932BCC-5D2D-4F59-BB4E-4098CD2328C1}|Hospital_Management\\Hospital_Management.csproj|D:\\DataBase Project\\Hospital_Management\\hospital_management\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5F932BCC-5D2D-4F59-BB4E-4098CD2328C1}|Hospital_Management\\Hospital_Management.csproj|solutionrelative:hospital_management\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Patient.cs [Design]",
+              "DocumentMoniker": "D:\\DataBase Project\\Hospital_Management\\Hospital_Management\\Patient.cs",
+              "RelativeDocumentMoniker": "Hospital_Management\\Patient.cs",
+              "ToolTip": "D:\\DataBase Project\\Hospital_Management\\Hospital_Management\\Patient.cs [Design]",
+              "RelativeToolTip": "Hospital_Management\\Patient.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T16:14:00.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "D:\\DataBase Project\\Hospital_Management\\Hospital_Management\\Patient.cs",
+              "RelativeDocumentMoniker": "Hospital_Management\\Patient.cs",
+              "ToolTip": "D:\\DataBase Project\\Hospital_Management\\Hospital_Management\\Patient.cs",
+              "RelativeToolTip": "Hospital_Management\\Patient.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAB0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T16:36:28.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "D:\\DataBase Project\\Hospital_Management\\Hospital_Management\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Hospital_Management\\Dashboard.cs",
+              "ToolTip": "D:\\DataBase Project\\Hospital_Management\\Hospital_Management\\Dashboard.cs*",
+              "RelativeToolTip": "Hospital_Management\\Dashboard.cs*",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T17:45:47.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Nurse.cs [Design]",
+              "DocumentMoniker": "D:\\DataBase Project\\Hospital_Management\\Hospital_Management\\Nurse.cs",
+              "RelativeDocumentMoniker": "Hospital_Management\\Nurse.cs",
+              "ToolTip": "D:\\DataBase Project\\Hospital_Management\\Hospital_Management\\Nurse.cs [Design]",
+              "RelativeToolTip": "Hospital_Management\\Nurse.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T16:14:03.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Nurse.cs",
+              "DocumentMoniker": "D:\\DataBase Project\\Hospital_Management\\Hospital_Management\\Nurse.cs",
+              "RelativeDocumentMoniker": "Hospital_Management\\Nurse.cs",
+              "ToolTip": "D:\\DataBase Project\\Hospital_Management\\Hospital_Management\\Nurse.cs",
+              "RelativeToolTip": "Hospital_Management\\Nurse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T16:49:52.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MedicalRecord.cs [Design]",
+              "DocumentMoniker": "D:\\DataBase Project\\Hospital_Management\\Hospital_Management\\MedicalRecord.cs",
+              "RelativeDocumentMoniker": "Hospital_Management\\MedicalRecord.cs",
+              "ToolTip": "D:\\DataBase Project\\Hospital_Management\\Hospital_Management\\MedicalRecord.cs [Design]",
+              "RelativeToolTip": "Hospital_Management\\MedicalRecord.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T16:14:10.394Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MedicalRecord.cs",
+              "DocumentMoniker": "D:\\DataBase Project\\Hospital_Management\\Hospital_Management\\MedicalRecord.cs",
+              "RelativeDocumentMoniker": "Hospital_Management\\MedicalRecord.cs",
+              "ToolTip": "D:\\DataBase Project\\Hospital_Management\\Hospital_Management\\MedicalRecord.cs",
+              "RelativeToolTip": "Hospital_Management\\MedicalRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T16:21:35.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "D:\\DataBase Project\\Hospital_Management\\Hospital_Management\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Hospital_Management\\Dashboard.cs",
+              "ToolTip": "D:\\DataBase Project\\Hospital_Management\\Hospital_Management\\Dashboard.cs [Design]*",
+              "RelativeToolTip": "Hospital_Management\\Dashboard.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T17:45:44.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\DataBase Project\\Hospital_Management\\Hospital_Management\\Form1.cs",
+              "RelativeDocumentMoniker": "Hospital_Management\\Form1.cs",
+              "ToolTip": "D:\\DataBase Project\\Hospital_Management\\Hospital_Management\\Form1.cs",
+              "RelativeToolTip": "Hospital_Management\\Form1.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T17:54:49.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Medicine.cs",
+              "DocumentMoniker": "D:\\DataBase Project\\Hospital_Management\\Hospital_Management\\Medicine.cs",
+              "RelativeDocumentMoniker": "Hospital_Management\\Medicine.cs",
+              "ToolTip": "D:\\DataBase Project\\Hospital_Management\\Hospital_Management\\Medicine.cs",
+              "RelativeToolTip": "Hospital_Management\\Medicine.cs",
+              "ViewState": "AgIAAPAAAAAAAAAAAAAAABcAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T16:15:33.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Main.cs",
+              "DocumentMoniker": "D:\\DataBase Project\\Hospital_Management\\Hospital_Management\\Main.cs",
+              "RelativeDocumentMoniker": "Hospital_Management\\Main.cs",
+              "ToolTip": "D:\\DataBase Project\\Hospital_Management\\Hospital_Management\\Main.cs",
+              "RelativeToolTip": "Hospital_Management\\Main.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T18:26:18.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "D:\\DataBase Project\\Hospital_Management\\Hospital_Management\\Main.cs",
+              "RelativeDocumentMoniker": "Hospital_Management\\Main.cs",
+              "ToolTip": "D:\\DataBase Project\\Hospital_Management\\Hospital_Management\\Main.cs [Design]",
+              "RelativeToolTip": "Hospital_Management\\Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T22:42:25.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\DataBase Project\\Hospital_Management\\Hospital_Management\\Form1.cs",
+              "RelativeDocumentMoniker": "Hospital_Management\\Form1.cs",
+              "ToolTip": "D:\\DataBase Project\\Hospital_Management\\Hospital_Management\\Form1.cs [Design]",
+              "RelativeToolTip": "Hospital_Management\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T17:54:47.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "D:\\DataBase Project\\Hospital_Management\\Hospital_Management\\Doctor.cs",
+              "RelativeDocumentMoniker": "Hospital_Management\\Doctor.cs",
+              "ToolTip": "D:\\DataBase Project\\Hospital_Management\\Hospital_Management\\Doctor.cs",
+              "RelativeToolTip": "Hospital_Management\\Doctor.cs",
+              "ViewState": "AgIAAMEAAAAAAAAAAAA1wNkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T17:31:21.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Doctor.cs [Design]",
+              "DocumentMoniker": "D:\\DataBase Project\\Hospital_Management\\Hospital_Management\\Doctor.cs",
+              "RelativeDocumentMoniker": "Hospital_Management\\Doctor.cs",
+              "ToolTip": "D:\\DataBase Project\\Hospital_Management\\Hospital_Management\\Doctor.cs [Design]",
+              "RelativeToolTip": "Hospital_Management\\Doctor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T17:31:11.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Medicine.cs [Design]",
+              "DocumentMoniker": "D:\\DataBase Project\\Hospital_Management\\Hospital_Management\\Medicine.cs",
+              "RelativeDocumentMoniker": "Hospital_Management\\Medicine.cs",
+              "ToolTip": "D:\\DataBase Project\\Hospital_Management\\Hospital_Management\\Medicine.cs [Design]",
+              "RelativeToolTip": "Hospital_Management\\Medicine.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T16:15:07.431Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

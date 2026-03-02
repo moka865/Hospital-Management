@@ -1,0 +1,17 @@
+D:\DataBase Project\Hospital_Management\Hospital_Management\bin\Debug\Hospital_Management.exe.config
+D:\DataBase Project\Hospital_Management\Hospital_Management\bin\Debug\Hospital_Management.exe
+D:\DataBase Project\Hospital_Management\Hospital_Management\bin\Debug\Hospital_Management.pdb
+D:\DataBase Project\Hospital_Management\Hospital_Management\obj\Debug\Hospital_Management.csproj.AssemblyReference.cache
+D:\DataBase Project\Hospital_Management\Hospital_Management\obj\Debug\Hospital_Management.Form1.resources
+D:\DataBase Project\Hospital_Management\Hospital_Management\obj\Debug\Hospital_Management.Properties.Resources.resources
+D:\DataBase Project\Hospital_Management\Hospital_Management\obj\Debug\Hospital_Management.csproj.GenerateResource.cache
+D:\DataBase Project\Hospital_Management\Hospital_Management\obj\Debug\Hospital_Management.csproj.CoreCompileInputs.cache
+D:\DataBase Project\Hospital_Management\Hospital_Management\obj\Debug\Hospital_Management.exe
+D:\DataBase Project\Hospital_Management\Hospital_Management\obj\Debug\Hospital_Management.pdb
+D:\DataBase Project\Hospital_Management\Hospital_Management\obj\Debug\Hospital_Management.Main.resources
+D:\DataBase Project\Hospital_Management\Hospital_Management\obj\Debug\Hospital_Management.Patient.resources
+D:\DataBase Project\Hospital_Management\Hospital_Management\obj\Debug\Hospital_Management.Doctor.resources
+D:\DataBase Project\Hospital_Management\Hospital_Management\obj\Debug\Hospital_Management.Nurse.resources
+D:\DataBase Project\Hospital_Management\Hospital_Management\obj\Debug\Hospital_Management.MedicalRecord.resources
+D:\DataBase Project\Hospital_Management\Hospital_Management\obj\Debug\Hospital_Management.Medicine.resources
+D:\DataBase Project\Hospital_Management\Hospital_Management\obj\Debug\Hospital_Management.Dashboard.resources
