@@ -2,6 +2,7 @@
 
 A desktop-based Hospital Management System developed using C# and SQL Server.  
 The system is designed to manage core hospital operations such as patients, doctors, nurses, medical records, and medicines through a structured Windows Forms application.
+![Hospital Management Screenshot](https://github.com/user-attachments/assets/0022742f-4f45-411b-9984-ef1fa7173b7b)
 
 ------------------------------------------------------------
 
